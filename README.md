@@ -1,3 +1,3 @@
-Running a website on github pages
+Running a test on github pages
 
 Don't mind the HTML.....
